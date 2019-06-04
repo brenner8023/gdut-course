@@ -1,5 +1,5 @@
 # 广东工业大学计算机学院课程攻略
-![广东工业大学正门](./images/gdut.jpg)
+![gdut](https://user-images.githubusercontent.com/31237954/58875305-be5b1980-86fd-11e9-97b4-cbe0a177711b.png)
 
 ## 目录结构
 ```shell

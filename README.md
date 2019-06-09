@@ -1,6 +1,9 @@
 # 广东工业大学计算机学院课程攻略
 ![gdut](https://user-images.githubusercontent.com/31237954/58875305-be5b1980-86fd-11e9-97b4-cbe0a177711b.png)
 
+## Web端访问
+[Online](https://brenner8023.github.io/gdut-course)
+
 ## 目录结构
 ```shell
 ├─公选课

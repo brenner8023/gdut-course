@@ -70,3 +70,6 @@
 - 东南大学课程共享计划: https://github.com/zjdx1998/seucourseshare
 - 北京林业大学信息学院课程攻略: https://github.com/bljx/BFU-leaf
 - 山东科技大学课程资源共享计划: https://github.com/deepwzh/sdust-examination-materials
+
+## 赞赏
+![微信支付](https://user-images.githubusercontent.com/31237954/61599874-8123fa00-ac5f-11e9-87e8-aa4258459017.jpg)

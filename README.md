@@ -72,4 +72,4 @@
 - 山东科技大学课程资源共享计划: https://github.com/deepwzh/sdust-examination-materials
 
 ## 赞赏
-![微信支付](https://user-images.githubusercontent.com/31237954/61599874-8123fa00-ac5f-11e9-87e8-aa4258459017.jpg)
+![支付](https://user-images.githubusercontent.com/31237954/61756268-cf670380-aded-11e9-8604-78b476dd6efb.jpg)

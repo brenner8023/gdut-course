@@ -1,5 +1,5 @@
 # 广东工业大学计算机学院课程攻略
-![gdut](https://user-images.githubusercontent.com/31237954/58875305-be5b1980-86fd-11e9-97b4-cbe0a177711b.png)
+![gdut背景图](https://user-images.githubusercontent.com/31237954/66485906-2a9abf00-eadc-11e9-82eb-14da6867ad71.png)
 
 ## Web端访问
 [Online](https://brenner8023.github.io/gdut-course)

@@ -1,4 +1,4 @@
-# 广东工业大学计算机学院课程攻略
+# 广东工业大学计算机学院生存指南
 ![gdut背景图](https://user-images.githubusercontent.com/31237954/66485906-2a9abf00-eadc-11e9-82eb-14da6867ad71.png)
 
 ## Web端访问

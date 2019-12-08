@@ -8,12 +8,12 @@
 [Online](https://brenner8023.github.io/gdut-course)
 
 ## 目录
-- [大一](https://github.com/brenner8023/gdut-course/tree/master/大一)
-- [大二](https://github.com/brenner8023/gdut-course/tree/master/大二)
-- [大三](https://github.com/brenner8023/gdut-course/tree/master/大三)
-- [毕业设计](https://github.com/brenner8023/gdut-course/tree/master/毕业设计)
-- [校园招聘](https://github.com/brenner8023/gdut-course/tree/master/校园招聘)
-- [其它](https://github.com/brenner8023/gdut-course/tree/master/其它)
+- [大一](https://github.com/brenner8023/gdut-course/tree/master/public/大一)
+- [大二](https://github.com/brenner8023/gdut-course/tree/master/public/大二)
+- [大三](https://github.com/brenner8023/gdut-course/tree/master/public/大三)
+- [毕业设计](https://github.com/brenner8023/gdut-course/tree/master/public/毕业设计)
+- [校园招聘](https://github.com/brenner8023/gdut-course/tree/master/public/校园招聘)
+- [其它](https://github.com/brenner8023/gdut-course/tree/master/public/其它)
 
 ## 备注
 - 部分课程(比如大学物理)是分为上和下两门课程, 分别在不同学期上课, 而此项目将其归类在了同一个文件夹中, 未作出区分.

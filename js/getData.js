@@ -6,7 +6,7 @@
 let fs = require('fs'),
     fsPromises = fs.promises;
 
-let baseDir = '../../public/',
+let baseDir = '../public/',
     result = [];
 
 fsPromises.readdir(baseDir)

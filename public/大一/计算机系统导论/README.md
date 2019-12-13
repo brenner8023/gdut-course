@@ -1,0 +1,1 @@
+计算机科学速成课：https://github.com/1c7/Crash-Course-Computer-Science-Chinese

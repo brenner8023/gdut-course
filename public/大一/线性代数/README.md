@@ -1,0 +1,2 @@
+- [山东财经大学宋浩_线性代数](https://www.bilibili.com/video/av29971113)
+- [高数叔_线性代数总复习](https://www.bilibili.com/video/av46962507)

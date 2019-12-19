@@ -7,6 +7,7 @@
 ## Web端访问
 - [Online1（国内访问较快）](https://brenner8023.gitee.io/gdut-course/)
 - [Online2](https://brenner8023.github.io/gdut-course)
+- [GitHub项目托管](https://github.com/brenner8023/gdut-course)
 - [码云项目托管](https://gitee.com/brenner8023/gdut-course)
 
 ## 目录

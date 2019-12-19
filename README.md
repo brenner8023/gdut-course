@@ -39,9 +39,10 @@
 - 山东科技大学课程资源共享计划: https://github.com/deepwzh/sdust-examination-materials
 
 ## 支持
-**扫码向他人分享本项目：**
+#### 扫码向他人分享本项目：
 ![二维码分享](https://brenner8023.gitee.io/img-bed/gdut-course/share.png)
-**微信赞赏：**
+
+#### 赞赏支持一下辛苦付出的作者：
 ![微信赞赏码](https://brenner8023.gitee.io/img-bed/gdut-course/wechatpay.png)
-**支付宝赞赏：**
+
 ![支付宝收钱码](https://brenner8023.gitee.io/img-bed/gdut-course/alipay.png)

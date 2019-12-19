@@ -2,18 +2,20 @@
 
 > 前人踩过的坑，后人不必再踩。
 
-![gdut背景图](https://user-images.githubusercontent.com/31237954/66485906-2a9abf00-eadc-11e9-82eb-14da6867ad71.png)
+![gdut_bg](https://brenner8023.gitee.io/img-bed/gdut-course/gdut_bg.png)
 
 ## Web端访问
-[Online](https://brenner8023.github.io/gdut-course)
+- [Online1（国内访问较快）](https://brenner8023.gitee.io/gdut-course/)
+- [Online2](https://brenner8023.github.io/gdut-course)
+- [码云项目托管](https://gitee.com/brenner8023/gdut-course)
 
 ## 目录
-- [大一](https://github.com/brenner8023/gdut-course/tree/master/public/大一)
-- [大二](https://github.com/brenner8023/gdut-course/tree/master/public/大二)
-- [大三](https://github.com/brenner8023/gdut-course/tree/master/public/大三)
-- [毕业设计](https://github.com/brenner8023/gdut-course/tree/master/public/毕业设计)
-- [校园招聘](https://github.com/brenner8023/gdut-course/tree/master/public/校园招聘)
-- [其它](https://github.com/brenner8023/gdut-course/tree/master/public/其它)
+- [大一](./public/大一/README.md)
+- [大二](./public/大二/README.md)
+- [大三](./public/大三/README.md)
+- [毕业设计](./public/毕业设计/README.md)
+- [校园招聘](./public/校园招聘/README.md)
+- [其它](./public/其它/README.md)
 
 ## 备注
 - 部分课程(比如大学物理)是分为上和下两门课程, 分别在不同学期上课, 而此项目将其归类在了同一个文件夹中, 未作出区分.
@@ -37,7 +39,9 @@
 - 山东科技大学课程资源共享计划: https://github.com/deepwzh/sdust-examination-materials
 
 ## 支持
-#### 扫码向他人分享本项目：
-![二维码分享](https://user-images.githubusercontent.com/31237954/68087106-7a776680-fe8d-11e9-8403-89ab80666cc4.png)
-#### 赞赏支持一下作者：
-![赞赏](https://user-images.githubusercontent.com/31237954/63310855-d7ec2480-c32e-11e9-8fd2-9c8bc0b3a4ea.png)
+**扫码向他人分享本项目：**
+![二维码分享](https://brenner8023.gitee.io/img-bed/gdut-course/share.png)
+**微信赞赏：**
+![微信赞赏码](https://brenner8023.gitee.io/img-bed/gdut-course/wechatpay.png)
+**支付宝赞赏：**
+![支付宝收钱码](https://brenner8023.gitee.io/img-bed/gdut-course/alipay.png)

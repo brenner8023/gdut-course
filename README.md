@@ -7,6 +7,7 @@
 ## Web端访问
 - [Online1（国内访问较快）](https://brenner8023.gitee.io/gdut-course/)
 - [Online2](https://brenner8023.github.io/gdut-course)
+- [GitHub项目托管](https://github.com/brenner8023/gdut-course)
 - [码云项目托管](https://gitee.com/brenner8023/gdut-course)
 
 ## 目录
@@ -39,9 +40,10 @@
 - 山东科技大学课程资源共享计划: https://github.com/deepwzh/sdust-examination-materials
 
 ## 支持
-**扫码向他人分享本项目：**
+#### 扫码向他人分享本项目：
 ![二维码分享](https://brenner8023.gitee.io/img-bed/gdut-course/share.png)
-**微信赞赏：**
+
+#### 赞赏支持一下辛苦付出的作者：
 ![微信赞赏码](https://brenner8023.gitee.io/img-bed/gdut-course/wechatpay.png)
-**支付宝赞赏：**
+
 ![支付宝收钱码](https://brenner8023.gitee.io/img-bed/gdut-course/alipay.png)

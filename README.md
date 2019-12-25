@@ -4,19 +4,22 @@
 
 ![gdut_bg](https://brenner8023.gitee.io/img-bed/gdut-course/gdut_bg.png)
 
-## Web端访问
+## 资源访问与下载
 - [Online1（国内访问较快）](https://brenner8023.gitee.io/gdut-course/)
 - [Online2](https://brenner8023.github.io/gdut-course)
 - [GitHub项目托管](https://github.com/brenner8023/gdut-course)
 - [码云项目托管（国内访问较快）](https://gitee.com/brenner8023/gdut-course)
 
-## 目录
-- 1️⃣ [大一](./public/大一/README.md)
-- 2️⃣ [大二](./public/大二/README.md)
-- 3️⃣ [大三](./public/大三/README.md)
-- 4️⃣ [毕业设计](./public/毕业设计/README.md)
-- 5️⃣ [校园招聘](./public/校园招聘/README.md)
-- 6️⃣ [其它](./public/其它/README.md)
+GitHub默认只支持下载完整项目或者单个文件，不支持下载单个文件夹，而本项目大小接近2个G，直接clone整个项目耗时较久，可以使用`sparse checkout`只下载单个文件夹，[教程在此](https://www.jianshu.com/p/74a0441ed9b7) 👈 使用截图如下：
+![sparse checkout使用截图](https://brenner8023.gitee.io/img-bed/gdut-course/sparse_checkout.png)
+
+## 分类
+- [大一](./public/大一/README.md)
+- [大二](./public/大二/README.md)
+- [大三](./public/大三/README.md)
+- [毕业设计](./public/毕业设计/README.md)
+- [校园招聘](./public/校园招聘/README.md)
+- [其它](./public/其它/README.md)
 
 ## 备注
 - 学校将一些课程(比如大学物理)分为上和下两门课程, 并安排在不同的学期上课, 而我将其归类在了同一个文件夹中, 未作详细区分😅。

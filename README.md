@@ -1,4 +1,4 @@
-# 广东工业大学计算机学院课程攻略
+# <center>广东工业大学计算机学院课程攻略</center>
 
 > 前人踩过的坑，后人不必再踩。👀
 
@@ -37,14 +37,14 @@
 - [山东科技大学课程资源共享计划](https://github.com/deepwzh/sdust-examination-materials)
 
 ## 备注
-1. 有什么问题可以提[issue](https://github.com/brenner8023/gdut-course/issues)进行反馈 👈
+1. 有什么问题可以提[issue](https://github.com/brenner8023/gdut-course/issues)进行反馈，欢迎大家提交PR一起维护本项目。 👈
 2. 实验课和课设是放在对应课程的文件夹中的。
 3. 目前(2019年)计算机学院共有四个专业: 软件工程, 计算机科学与技术, 网络工程, 信息安全. 不同专业会有不同的专业课, 也没有作出详细区分🙄。
 4. 学校将一些课程(比如大学物理)分为上和下两门课程, 并安排在不同的学期上课, 而我将其归类在了同一个文件夹中, 未作详细区分😅。
 5. GitHub默认只支持下载完整项目或者单个文件，不支持下载单个文件夹，而本项目大小接近2个G，直接clone整个项目耗时较久，可以使用`sparse checkout`只下载单个文件夹，[教程在此](https://www.jianshu.com/p/74a0441ed9b7) 👈 使用截图如下：
 ![sparse checkout使用截图](https://brenner8023.gitee.io/img-bed/gdut-course/sparse_checkout.png)
 
-## 支持
+## 支持开源
 #### 🙆扫码向他人分享本项目：
 ![二维码分享](https://brenner8023.gitee.io/img-bed/gdut-course/share.png)
 

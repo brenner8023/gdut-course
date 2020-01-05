@@ -1,6 +1,7 @@
 # <center>广东工业大学计算机学院课程攻略</center>
 
 > 前人踩过的坑，后人不必再踩。👀
+> 欢迎同门师弟师妹参与进来，一起完善本项目，造福后人！🎺
 
 ![gdut_bg](https://brenner8023.gitee.io/img-bed/gdut-course/gdut_bg.png)
 
@@ -36,7 +37,7 @@
 - [北京林业大学信息学院课程攻略](https://github.com/bljx/BFU-leaf)
 - [山东科技大学课程资源共享计划](https://github.com/deepwzh/sdust-examination-materials)
 
-## 说明
+## 相关说明
 1. 有什么问题可以提[issue](https://github.com/brenner8023/gdut-course/issues)进行反馈，欢迎大家提交PR一起维护本项目。 👈
 2. 实验课和课设是放在对应课程的文件夹中的。
 3. 目前(2019年)计算机学院共有四个专业: 软件工程, 计算机科学与技术, 网络工程, 信息安全. 不同专业会有不同的专业课, 也没有作出详细区分🙄。

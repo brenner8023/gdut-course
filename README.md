@@ -1,6 +1,6 @@
 <h1><center>广东工业大学计算机学院课程攻略</center></h1>
 前人踩过的坑，后人不必再踩。🌲<br />
-欢迎同门师弟师妹参与进来，一起完善本项目，造福后人！🐧<br />
+欢迎同门师弟师妹参与进来，一起完善本项目，造福后人！🐧<br /><br />
 
 ![gdut_bg](https://brenner8023.gitee.io/img-bed/gdut-course/gdut_bg.png)
 

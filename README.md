@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">广东工业大学计算机学院课程攻略</h1>
+# 广东工业大学计算机学院课程攻略
 前人踩过的坑，后人不必再踩。🌲<br />
 欢迎同门师弟师妹参与进来，一起完善本项目，造福后人！🐧<br /><br />
 
@@ -20,7 +20,7 @@
 - [其它](./public/其它/README.md)
 
 ## 广工大优秀开源项目整合
-项目分享请发起issue或者提交PR😘
+项目自荐/分享请发起issue或者提交PR😘
 
 - [宇工大联网拨号器](https://github.com/GDUT-Drcom/GDUT-Drcom-Dialer)
 - [A&D工作室](https://github.com/AttackandDefenceSecurityLab)
@@ -49,6 +49,11 @@
 4. 学校将一些课程(比如大学物理)分为上和下两门课程, 并安排在不同的学期上课, 而我将其归类在了同一个文件夹中, 未作详细区分😅。
 5. GitHub默认只支持下载完整项目或者单个文件，不支持下载单个文件夹，而本项目大小接近2个G，直接clone整个项目耗时较久，可以使用`sparse checkout`只下载单个文件夹，[教程在此](https://www.jianshu.com/p/74a0441ed9b7) 👈 使用截图如下：
 ![sparse checkout使用截图](https://brenner8023.gitee.io/img-bed/gdut-course/sparse_checkout.png)
+
+*watch、star、fork的说明：*
+- star 的作用是收藏，目的是方便以后查找。
+- watch 的作用是关注，目的是等我更新的时候，你可以收到通知。
+- fork 的作用是参与，目的是你增加新的内容，然后`Pull Request`，我会考虑把你的修改和我原来的内容合并。
 
 ## 支持开源
 #### 🙆扫码向他人分享本项目：

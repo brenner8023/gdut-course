@@ -57,6 +57,10 @@
 - 程序员面试金典编程题: https://www.nowcoder.com/ta/cracking-the-coding-interview
 - 反向面试：https://github.com/yifeikong/reverse-interview-zh
 
+## 校招/实习工资
+- 关注微信公众号：校招薪水
+- 打开微信小程序：OfferShow
+
 ## 注意事项
 - 996ICU: https://github.com/996icu/996.ICU
 - 程序员找工作黑名单: https://github.com/shengxinjing/programmer-job-blacklist

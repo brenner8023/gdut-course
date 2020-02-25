@@ -13,12 +13,11 @@
 - [支持开源](#支持开源)
 
 ## 资源访问与下载
-- [Online1（国内访问和下载较快）](https://brenner8023.gitee.io/gdut-course/)
-- [Online2](https://brenner8023.github.io/gdut-course)
+- [Online（国内访问和下载较快）](https://brenner8023.gitee.io/gdut-course/)
 - [GitHub项目托管](https://github.com/brenner8023/gdut-course)
 - [码云项目托管（国内访问和下载较快）](https://gitee.com/brenner8023/gdut-course)
 - 使用`git clone https://gitee.com/brenner8023/gdut-course.git --depth 1`
-- [下载单文件夹的方法](#%E7%9B%B8%E5%85%B3%E8%AF%B4%E6%98%8E)
+- [下载单文件夹的方法，参考相关说明第5点](#%E7%9B%B8%E5%85%B3%E8%AF%B4%E6%98%8E)
 
 ## 资源分类
 - [大一](./public/大一/)

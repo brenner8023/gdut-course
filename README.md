@@ -37,11 +37,12 @@
 - 🏠 [广东工业大学新闻网](http://gdutnews.gdut.edu.cn/)
 
 ## 相关说明
-1. 项目是个人纯靠情怀在维护(非官方)，有什么问题可以提[issue](https://github.com/brenner8023/gdut-course/issues)进行反馈，可以通过提交PR一起维护本项目，或者加作者的QQ1010543052。 👈
+1. 项目是个人纯靠情怀在维护(非官方)，有什么问题可以提[issue](https://github.com/brenner8023/gdut-course/issues)进行反馈，可以通过提交PR一起维护本项目，或者加作者的QQ`1010543052`。 👈
 2. 实验课和课设是放在对应课程的文件夹中的。
 3. 目前(2019年)计算机学院共有四个专业: 软件工程, 计算机科学与技术, 网络工程, 信息安全. 不同专业会有不同的专业课, 也没有作出详细区分🙄。
 4. 学校将一些课程(比如大学物理)分为上和下两门课程, 并安排在不同的学期上课, 而我将其归类在了同一个文件夹中, 未作详细区分😅。
 5. GitHub默认只支持下载完整项目或者单个文件，不支持下载单个文件夹，可以使用`sparse checkout`只下载单个文件夹，[教程在此](https://www.jianshu.com/p/74a0441ed9b7) 👈 使用截图如下：
+
 ![sparse checkout使用截图](https://brenner8023.gitee.io/img-bed/gdut-course/sparse_checkout.png)
 
 *watch、star、fork的说明：*

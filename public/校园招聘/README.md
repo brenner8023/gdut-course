@@ -61,6 +61,78 @@
 - 关注微信公众号：校招薪水
 - 打开微信小程序：OfferShow
 
+2020年计算机学院某班就业情况统计：
+<table>
+  <thead>
+    <th>就业情况</th>
+    <th>人数</th>
+  </thead>
+  <tfoot>
+    <tr>
+      <td>总计：</td>
+      <td>45</td>
+    </tr>
+  </tfoot>
+  <tbody>
+    <tr>
+      <td>国内升学</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>腾讯</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>字节跳动</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>深信服</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>中国平安</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>滴滴</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>SHEIN</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>广州六一教育</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>广州百田</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>招商华软</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>学而思</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>佳都科技</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>其它公司</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>未有意向</td>
+      <td>19</td>
+    </tr>
+  </tbody>
+</table>
+
 ## 注意事项
 - 996ICU: https://github.com/996icu/996.ICU
 - 程序员找工作黑名单: https://github.com/shengxinjing/programmer-job-blacklist

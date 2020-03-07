@@ -38,16 +38,8 @@
 - 实习僧: https://www.shixiseng.com/
 - 猎聘网: https://www.liepin.com/
 
-校招宣讲会（现场）
-2017年-2019年在广工/华工/中大举办校园招聘宣讲会的公司(部分)
-广州：
-[金山办公软件](http://join.wps.cn/)，网易，微信，[欢聚时代](https://hr.yy.com/)，[CVTE](http://www.cvte.com/)
-[唯品会](https://campus.vip.com/)，[荔枝](https://www.lizhi.fm/)，[六一信息科技](http://www.61info.cn/)，[租租车](https://www.zuzuche.com/)，[中移互联网](http://www.cmichr.com/)，[Shein](https://www.shein.com/)，[数字广东](http://www.digitalgd.com.cn/)
-[三七互娱](https://zhaopin.37.com/)，[广州百田](http://www.baitianinfo.com/)，[诗悦网络](http://shiyuegame.com/join/school/)，[3K游戏](https://www.3k.com/)，[多益网络](https://www.duoyi.com/)，[4399](http://web.4399.com/campus/)
-
-深圳：
-腾讯，百度，[大疆](https://we.dji.com/)，[字节跳动](https://job.bytedance.com/)
-[顺丰科技](http://www.sf-tech.com.cn/)，[微众银行](https://webank.cheng95.com/)，[平安科技](http://campus.pingan.com/)，[乐信](https://www.lexin.com/)，[富途证券](https://www.futunn.com/)，[深信服](http://hr.sangfor.com/)，[随手科技](https://sui.com/)
+校招宣讲会（现场）：
+每年都会有互联网大厂在广工/华工/中大现场举办校园招聘宣讲会，比如金山办公软件、网易、欢聚时代、CVTE、深信服、字节跳动、腾讯、百度、乐信
 
 ## 笔试面试
 - 技术面试必备基础知识: https://github.com/CyC2018/CS-Notes

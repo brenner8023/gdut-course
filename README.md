@@ -60,6 +60,7 @@
 - [东南大学课程共享计划](https://github.com/zjdx1998/seucourseshare)
 - [北京林业大学信息学院课程攻略](https://github.com/bljx/BFU-leaf)
 - [山东科技大学课程资源共享计划](https://github.com/deepwzh/sdust-examination-materials)
+- [华南师范大学 - 0xFFFF CS Wiki](https://www.yuque.com/0xffff.one/cs-learning)
 
 ## 支持开源
 #### 🙆扫码向他人分享本项目：

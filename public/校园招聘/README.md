@@ -15,6 +15,7 @@
 - 如何写出一份优秀的个人简历: https://www.zhihu.com/question/307936450/answer/576624345
 - 简历减分项有哪些: https://www.zhihu.com/question/19727053/answer/633762850
 - [一个刚毕业的计算机相关专业学生，简历上有哪些经历会加分？](https://www.barretlee.com/blog/2019/11/07/resume-writing/)
+- [面试之前，简历之上：给前端校招同学的简历建议](https://juejin.im/post/5d88b8ef518825090c1fa945)
 
 在网上搜罗了一些简历模板：[简历模板](./简历模板.zip)
 
@@ -48,6 +49,16 @@
 - 程序员代码面试指南在线OJ: https://www.nowcoder.com/ta/programmer-code-interview-guide
 - 程序员面试金典编程题: https://www.nowcoder.com/ta/cracking-the-coding-interview
 - 反向面试：https://github.com/yifeikong/reverse-interview-zh
+
+常见的面试流程：
+1. 介绍你自己
+2. 熟悉的技术栈
+3. 对技术栈的熟悉深度（大多数人被问倒在第三个问题，面试官会直接跳到第七个问题）
+4. 对加班有什么看法
+5. 如何解决工作中遇到的问题
+6. 期待的薪资待遇
+7. 你有什么想要问的
+8. 等待通知
 
 自我介绍示例：
 > 面试官您好，我叫黄雨萱，2020年应届毕业生。毕业于广东工业大学计算机学院信息安全专业。感谢有机会来公司面试。

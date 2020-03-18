@@ -30,6 +30,18 @@
 - [宇工大联网拨号器](https://github.com/GDUT-Drcom/GDUT-Drcom-Dialer)
 - [A&D工作室](https://github.com/AttackandDefenceSecurityLab)
 
+相关链接：
+- [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
+- [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+- [北京大学课程资料整理](https://github.com/lib-pku/libpku)
+- [南京大学课程复习资料](https://github.com/idealclover/NJU-Review-Materials)
+- [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
+- [上海交通大学课程资料分享](https://github.com/CoolPhilChen/SJTU-Courses/)
+- [东南大学课程共享计划](https://github.com/zjdx1998/seucourseshare)
+- [北京林业大学信息学院课程攻略](https://github.com/bljx/BFU-leaf)
+- [山东科技大学课程资源共享计划](https://github.com/deepwzh/sdust-examination-materials)
+- [华南师范大学 - 0xFFFF CS Wiki](https://www.yuque.com/0xffff.one/cs-learning)
+
 ## 了解工大更多
 - 👨‍🎓 [知乎-广东工业大学话题](https://www.zhihu.com/topic/19604314/)
 - 🍻 [哔哩哔哩-广东工业大学](https://search.bilibili.com/all?keyword=%E5%B9%BF%E4%B8%9C%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6)
@@ -49,18 +61,6 @@
 - star 的作用是收藏，目的是方便以后查找。
 - watch 的作用是关注，目的是等我更新的时候，你可以收到通知。
 - fork 的作用是参与，目的是你增加新的内容，然后`Pull Request`，我会考虑把你的修改和我原来的内容合并。
-
-相关链接：
-- [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
-- [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
-- [北京大学课程资料整理](https://github.com/lib-pku/libpku)
-- [南京大学课程复习资料](https://github.com/idealclover/NJU-Review-Materials)
-- [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
-- [上海交通大学课程资料分享](https://github.com/CoolPhilChen/SJTU-Courses/)
-- [东南大学课程共享计划](https://github.com/zjdx1998/seucourseshare)
-- [北京林业大学信息学院课程攻略](https://github.com/bljx/BFU-leaf)
-- [山东科技大学课程资源共享计划](https://github.com/deepwzh/sdust-examination-materials)
-- [华南师范大学 - 0xFFFF CS Wiki](https://www.yuque.com/0xffff.one/cs-learning)
 
 ## 支持开源
 #### 🙆扫码向他人分享本项目：

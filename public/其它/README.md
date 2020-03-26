@@ -1,5 +1,7 @@
 免费的计算机编程类书籍: https://github.com/justjavac/free-programming-books-zh_CN
 
+问答库：https://www.asklib.com/
+
 ## 程序员必读的三十本书籍
 - 《代码大全》
 - 《程序员修炼之道》

@@ -42,9 +42,9 @@
 - 技术面试必备基础知识: https://github.com/CyC2018/CS-Notes
 - 算法刷题: https://leetcode-cn.com/
 - 剑指offer编程题: https://www.nowcoder.com/ta/coding-interviews
-- 程序员代码面试指南在线OJ: https://www.nowcoder.com/ta/programmer-code-interview-guide
-- 程序员面试金典编程题: https://www.nowcoder.com/ta/cracking-the-coding-interview
 - 反向面试：https://github.com/yifeikong/reverse-interview-zh
+- 算法工程师面试技能图：https://zhuanlan.zhihu.com/p/54089811
+- 前端工程师大厂面试秘籍：https://juejin.im/post/5c64d15d6fb9a049d37f9c20
 
 常见的面试流程：
 1. 介绍你自己
@@ -66,70 +66,85 @@
 ## 签约/待遇
 [入职相关](./入职相关.md)
 
-2020年计算机学院某班就业情况统计：
+2020年广工计算机学院某班毕业情况统计：
 <table>
   <thead>
-    <th>就业情况</th>
+    <th>毕业去向</th>
     <th>人数</th>
+    <th>备注</th>
   </thead>
   <tfoot>
     <tr>
       <td>总计：</td>
       <td>45</td>
+      <td></td>
     </tr>
   </tfoot>
   <tbody>
     <tr>
       <td>国内升学</td>
       <td>9</td>
+      <td></td>
     </tr>
     <tr>
       <td>腾讯</td>
       <td>3</td>
+      <td>前端、后端</td>
     </tr>
     <tr>
       <td>字节跳动</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>深信服</td>
       <td>3</td>
-    </tr>
-    <tr>
-      <td>中国平安</td>
-      <td>1</td>
+      <td>前端、后端</td>
     </tr>
     <tr>
       <td>滴滴</td>
       <td>1</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>深信服</td>
+      <td>2</td>
+      <td>前端、测试</td>
+    </tr>
+    <tr>
+      <td>中国平安</td>
+      <td>1</td>
+      <td></td>
     </tr>
     <tr>
       <td>SHEIN</td>
       <td>1</td>
+      <td>后端</td>
     </tr>
     <tr>
       <td>广州百田</td>
       <td>1</td>
+      <td>游戏前端</td>
     </tr>
     <tr>
       <td>招商华软</td>
       <td>1</td>
+      <td>安卓开发</td>
     </tr>
     <tr>
       <td>学而思</td>
       <td>1</td>
+      <td>培训老师</td>
     </tr>
     <tr>
       <td>佳都科技</td>
       <td>1</td>
+      <td></td>
     </tr>
     <tr>
       <td>其它公司</td>
-      <td>2</td>
+      <td>3</td>
+      <td>产品</td>
     </tr>
     <tr>
       <td>未有意向</td>
-      <td>19</td>
+      <td>18</td>
+      <td></td>
     </tr>
   </tbody>
 </table>

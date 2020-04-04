@@ -1,4 +1,7 @@
 # 广东工业大学计算机学院课程攻略
+
+> 本项目被刊登在阮一峰老师的科技爱好者周刊[第55期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-55.html)。
+
 ![gdut_bg](https://brenner8023.gitee.io/img-bed/gdut-course/gdut_bg.png)
 
 ## 目录
@@ -14,7 +17,7 @@
 - [GitHub项目托管](https://github.com/brenner8023/gdut-course)
 - [码云项目托管（国内访问和下载较快）](https://gitee.com/brenner8023/gdut-course)
 - 使用`git clone https://gitee.com/brenner8023/gdut-course.git --depth 1`
-- [下载单文件夹的方法，参考相关说明第5点](#%E7%9B%B8%E5%85%B3%E8%AF%B4%E6%98%8E)
+- [下载单文件夹的方法，参考相关说明](#%E7%9B%B8%E5%85%B3%E8%AF%B4%E6%98%8E)
 
 ## 资源分类
 - [大一](./public/大一/)

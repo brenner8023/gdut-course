@@ -3,6 +3,12 @@
 ## 2019-2020的毕设时间安排
 ![毕业设计时间安排](./01时间安排.jpg)
 
+## 毕业论文LaTex模板
+- 广工：https://github.com/Nick-Hopps/gdutart
+- 哈工大：https://github.com/dustincys/hithesis
+- 电子科技大学：https://github.com/x-magus/ThesisUESTC
+- 广州大学：https://github.com/swq123459/GZHU-Report-Latex-Version
+
 ## 往年毕设选题参考
 **基于Python的数据包分析器的设计与实现：**
 本程序是基于Python实现的程序，包括了UI界面和后台处理。程序实现了对流经网卡的数据包进行嗅探、捕获，支持对数据包进行协议分析，并将分析结果反馈给用户，分析结果主要显示其协议头部信息，同时支持对数据包的捕获进行过滤。需要注意的是，目前为止的嗅探均对加密数据不起作用。

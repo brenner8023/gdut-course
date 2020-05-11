@@ -7,7 +7,7 @@
 ## 目录
 - [资源访问与下载](#资源访问与下载)
 - [资源分类](#资源分类)
-- [广工大优秀开源项目整合](#广工大优秀开源项目整合)
+- [推荐阅读](#推荐阅读)
 - [了解工大更多](#了解工大更多)
 - [相关说明](#相关说明)
 - [支持开源](#支持开源)
@@ -18,6 +18,7 @@
 - [码云项目托管（国内访问和下载较快）](https://gitee.com/brenner8023/gdut-course)
 - 使用`git clone https://gitee.com/brenner8023/gdut-course.git --depth 1`
 - [下载单文件夹的方法，参考相关说明](#%E7%9B%B8%E5%85%B3%E8%AF%B4%E6%98%8E)
+- 安装[Octotree](https://addons.mozilla.org/zh-CN/firefox/addon/octotree/)或者[GiteeTree](https://addons.mozilla.org/zh-CN/firefox/addon/giteetree/)浏览器扩展插件，方便在网页上浏览项目的文件夹和文件
 
 ## 资源分类
 - [大一](./public/大一/)
@@ -27,11 +28,12 @@
 - [校园招聘](./public/校园招聘/)
 - [其它](./public/其它/)
 
-## 广工大优秀开源项目整合
+## 推荐阅读
 项目自荐/分享请发起issue或者提交PR😘
 
 - [宇工大联网拨号器](https://github.com/GDUT-Drcom/GDUT-Drcom-Dialer)
 - [A&D工作室](https://github.com/AttackandDefenceSecurityLab)
+- [腾讯师兄的程序员之路](./public/其它/腾讯师兄的程序员之路/README.md)
 
 相关链接：
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)

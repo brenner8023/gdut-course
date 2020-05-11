@@ -1,15 +1,69 @@
 # 毕业设计
+- [三天肝完本科毕设](https://www.zhihu.com/question/318584992/answer/1162407522)
+- 论文改重：http://www.xiaofamao.com/
 
 ## 2019-2020的毕设时间安排
-![毕业设计时间安排](./01时间安排.jpg)
+<table>
+<thead>
+  <th>事项</th>
+  <th>时间</th>
+  <th>工作内容</th>
+</thead>
+<tbody>
+  <tr>
+    <td>前期工作</td>
+    <td>2019年12月20日前</td>
+    <td>导师与学生分配小组、拟定毕设题目、系统填写《教师拟题审批表》、提交任务书、签署《学术诚信承诺书》</td>
+  </tr>
+  <tr>
+    <td>中期检查</td>
+    <td>2020年3月10号前</td>
+    <td>毕设中期检查、系统填写中期检查表、指导情况记录表</td>
+  </tr>
+  <tr>
+    <td>第一次查重</td>
+    <td>2020年4月27号到5月10号</td>
+    <td>师生完成第一次相似性检测</td>
+  </tr>
+  <tr>
+    <td>第二次查重</td>
+    <td>2020年5月15号到2020年5月22号</td>
+    <td>第一次的查重率高于20%的学生进行第二次检测</td>
+  </tr>
+  <tr>
+    <td>答辩安排</td>
+    <td>2020年5月20号前</td>
+    <td>系统录入答辩小组的安排</td>
+  </tr>
+  <tr>
+    <td>答辩</td>
+    <td>2020年6月2号前</td>
+    <td>毕设答辩和优秀毕设答辩</td>
+  </tr>
+  <tr>
+    <td>成绩录入</td>
+    <td>2020年6月5号前</td>
+    <td>系统录入毕设成绩，提交《评议表》</td>
+  </tr>
+  <tr>
+    <td>评奖</td>
+    <td>2020年6月8号前</td>
+    <td>各学院上报优秀毕设论文相关材料给学校</td>
+  </tr>
+</tbody>
+</table>
 
 ## 毕业论文LaTex模板
+- 广工：https://github.com/ElunDai/gdutthesis
 - 广工：https://github.com/Nick-Hopps/gdutart
 - 哈工大：https://github.com/dustincys/hithesis
 - 电子科技大学：https://github.com/x-magus/ThesisUESTC
 - 广州大学：https://github.com/swq123459/GZHU-Report-Latex-Version
 
-## 往年毕设选题参考
+## 毕设选题
+维普智能选题：http://xuanti.cqvip.com/
+
+### 往年毕设选题参考
 **基于Python的数据包分析器的设计与实现：**
 本程序是基于Python实现的程序，包括了UI界面和后台处理。程序实现了对流经网卡的数据包进行嗅探、捕获，支持对数据包进行协议分析，并将分析结果反馈给用户，分析结果主要显示其协议头部信息，同时支持对数据包的捕获进行过滤。需要注意的是，目前为止的嗅探均对加密数据不起作用。
 

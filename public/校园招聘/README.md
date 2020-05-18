@@ -87,6 +87,11 @@
       <td></td>
     </tr>
     <tr>
+      <td>考公务员</td>
+      <td>3</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>腾讯</td>
       <td>3</td>
       <td>前端、后端</td>
@@ -127,23 +132,13 @@
       <td>安卓开发</td>
     </tr>
     <tr>
-      <td>学而思</td>
-      <td>1</td>
-      <td>培训老师</td>
-    </tr>
-    <tr>
-      <td>佳都科技</td>
-      <td>1</td>
-      <td></td>
-    </tr>
-    <tr>
       <td>其它公司</td>
-      <td>3</td>
-      <td>产品</td>
+      <td>6</td>
+      <td>产品、安全、开发</td>
     </tr>
     <tr>
       <td>未有意向</td>
-      <td>18</td>
+      <td>15</td>
       <td></td>
     </tr>
   </tbody>

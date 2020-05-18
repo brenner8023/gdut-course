@@ -81,7 +81,7 @@
 <table>
 <tr>
     <td>
-        <img src="https://brenner8023.gitee.io/img-bed/gdut-course/wechatpay.png" alt="微信赞赏码" />
+        <img width="300" src="https://brenner8023.gitee.io/img-bed/gdut-course/wechatpay.jpg" alt="微信赞赏码" />
     </td>
     <td>
     <img src="https://brenner8023.gitee.io/img-bed/gdut-course/alipay.png" alt="支付宝收钱码" />

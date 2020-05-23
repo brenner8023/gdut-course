@@ -82,13 +82,13 @@
   </tfoot>
   <tbody>
     <tr>
-      <td>国内升学</td>
-      <td>9</td>
-      <td></td>
+      <td>考研上岸</td>
+      <td>6</td>
+      <td>国防科大、中大、暨大、广工</td>
     </tr>
     <tr>
       <td>考公务员</td>
-      <td>3</td>
+      <td>4</td>
       <td></td>
     </tr>
     <tr>
@@ -104,12 +104,12 @@
     <tr>
       <td>滴滴</td>
       <td>1</td>
-      <td></td>
+      <td>C++后端</td>
     </tr>
     <tr>
       <td>深信服</td>
       <td>2</td>
-      <td>前端、测试</td>
+      <td>前端、测试开发</td>
     </tr>
     <tr>
       <td>中国平安</td>
@@ -119,7 +119,12 @@
     <tr>
       <td>SHEIN</td>
       <td>1</td>
-      <td>后端</td>
+      <td>Java后端</td>
+    </tr>
+    <tr>
+      <td>多益网络</td>
+      <td>1</td>
+      <td>Java后端</td>
     </tr>
     <tr>
       <td>广州百田</td>
@@ -132,14 +137,19 @@
       <td>安卓开发</td>
     </tr>
     <tr>
+      <td>招联金融</td>
+      <td>2</td>
+      <td>安全</td>
+    </tr>
+    <tr>
       <td>其它公司</td>
-      <td>6</td>
-      <td>产品、安全、开发</td>
+      <td>4</td>
+      <td></td>
     </tr>
     <tr>
       <td>未有意向</td>
       <td>15</td>
-      <td></td>
+      <td>包含考研没上岸的人</td>
     </tr>
   </tbody>
 </table>

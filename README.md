@@ -5,20 +5,24 @@
 ![gdut_bg](https://brenner8023.gitee.io/img-bed/gdut-course/gdut_bg.png)
 
 ## 目录
-- [资源访问与下载](#资源访问与下载)
+- [使用指南](#使用指南)
 - [资源分类](#资源分类)
 - [推荐阅读](#推荐阅读)
 - [了解工大更多](#了解工大更多)
 - [相关说明](#相关说明)
 - [支持开源](#支持开源)
 
-## 资源访问与下载
+## 使用指南
+**内容的查找搜索**：
+- 使用浏览器进入仓库首页之后，按下快捷键`t`，进入文件搜索模式，输入你想要寻找的文件名或者文件夹名，即可实时展示搜索结果。
+- 安装[Octotree](https://addons.mozilla.org/zh-CN/firefox/addon/octotree/)或者[GiteeTree](https://addons.mozilla.org/zh-CN/firefox/addon/giteetree/)浏览器扩展插件，方便在网页上浏览项目的文件夹和文件
+
+**文件的下载**：
 - [Online（国内访问和下载较快）](https://brenner8023.gitee.io/gdut-course/)
 - [GitHub项目托管](https://github.com/brenner8023/gdut-course)
 - [码云项目托管（国内访问和下载较快）](https://gitee.com/brenner8023/gdut-course)
 - 使用`git clone https://gitee.com/brenner8023/gdut-course.git --depth 1`
-- [下载单文件夹的方法，参考相关说明](#%E7%9B%B8%E5%85%B3%E8%AF%B4%E6%98%8E)
-- 安装[Octotree](https://addons.mozilla.org/zh-CN/firefox/addon/octotree/)或者[GiteeTree](https://addons.mozilla.org/zh-CN/firefox/addon/giteetree/)浏览器扩展插件，方便在网页上浏览项目的文件夹和文件
+- 下载单文件夹的方法，参考[相关说明](#%E7%9B%B8%E5%85%B3%E8%AF%B4%E6%98%8E)
 
 ## 资源分类
 - [大一](./public/大一/)
@@ -57,21 +61,20 @@
 1. 实验课和课设是放在对应课程的文件夹中的。
 2. 目前(2019年)计算机学院共有四个专业: 软件工程, 计算机科学与技术, 网络工程, 信息安全. 不同专业会有不同的专业课, 也没有作出详细区分🙄。
 3. 学校将一些课程(比如大学物理)分为上和下两门课程, 并安排在不同的学期上课, 而我将其归类在了同一个文件夹中, 未作详细区分😅。
-4. GitHub默认只支持下载完整项目或者单个文件，不支持下载单个文件夹，可以使用`sparse checkout`只下载单个文件夹，[教程在此](https://www.jianshu.com/p/74a0441ed9b7) 👈 使用截图如下：
+4. watch、star、fork的说明：
+    - star 的作用是收藏，目的是方便以后查找。
+    - watch 的作用是关注，目的是等我更新的时候，你可以收到通知。
+    - fork 的作用是参与，目的是你增加新的内容，然后`Pull Request`，我会考虑把你的修改和我原来的内容合并。
+5. GitHub默认只支持下载完整项目或者单个文件，不支持下载单个文件夹，可以使用`sparse checkout`只下载单个文件夹，[教程在此](https://www.jianshu.com/p/74a0441ed9b7) 👈 使用截图如下：
 
 ![sparse checkout使用截图](https://brenner8023.gitee.io/img-bed/gdut-course/sparse_checkout.png)
-
-*watch、star、fork的说明：*
-- star 的作用是收藏，目的是方便以后查找。
-- watch 的作用是关注，目的是等我更新的时候，你可以收到通知。
-- fork 的作用是参与，目的是你增加新的内容，然后`Pull Request`，我会考虑把你的修改和我原来的内容合并。
 
 ## 支持开源
 #### 🙆扫码向他人分享本项目：
 ![二维码分享](https://brenner8023.gitee.io/img-bed/gdut-course/share.png)
 
 #### 联系我
-1. 项目是个人纯靠情怀在维护(非官方)，有什么问题可以提[issue](https://github.com/brenner8023/gdut-course/issues)进行反馈，
+1. 使用[issue](https://github.com/brenner8023/gdut-course/issues)反馈建议，提交问题
 2. 可以通过提交PR一起维护本项目，
 3. 作者的QQ（base64加密）：`MTAxMDU0MzA1Mg==`， 👈
 4. 作者的邮箱（base64加密）：`dnVlNjY2QHFxLmNvbQ==`。

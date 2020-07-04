@@ -1,6 +1,7 @@
 # 毕业设计
 - [三天肝完本科毕设](https://www.zhihu.com/question/318584992/answer/1162407522)
 - 论文改重：http://www.xiaofamao.com/
+- [毕导-学渣的绝地求生！如何快速肝出一篇优秀的学术论文？](https://www.bilibili.com/video/BV1Sg4y1q79G)
 
 ## 2019-2020的毕设时间安排
 <table>

@@ -1,16 +1,16 @@
 # 广东工业大学计算机学院课程攻略
 
-![gdut_bg](https://brenner8023.gitee.io/img-bed/gdut-course/gdut_bg.png)
+![gdut_bg](./img/gdut-bg.png)
 
 给作者加鸡腿🍖：
 
 <table>
 <tr>
     <td>
-        <img width="300" src="https://brenner8023.gitee.io/img-bed/gdut-course/wechatpay.jpg" alt="微信赞赏码" />
+        <img width="300" src="./img/wechat-pay.jpg" alt="微信赞赏码" />
     </td>
     <td>
-    <img src="https://brenner8023.gitee.io/img-bed/gdut-course/alipay.png" alt="支付宝收钱码" />
+    <img src="./img/alipay.png" alt="支付宝收钱码" />
     </td>
 </tr>
 </table>
@@ -78,7 +78,7 @@
     - fork 的作用是参与，目的是你增加新的内容，然后`Pull Request`，我会考虑把你的修改和我原来的内容合并。
 5. GitHub默认只支持下载完整项目或者单个文件，不支持下载单个文件夹，可以使用`sparse checkout`只下载单个文件夹，[教程在此](https://www.jianshu.com/p/74a0441ed9b7) 👈 使用截图如下：
 
-![sparse checkout使用截图](https://brenner8023.gitee.io/img-bed/gdut-course/sparse_checkout.png)
+![sparse checkout使用截图](./img/checkout.png)
 
 ## 支持开源
 - 本项目被刊登在阮一峰老师的科技爱好者周刊[第55期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-55.html)。

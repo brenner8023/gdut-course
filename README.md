@@ -1,8 +1,19 @@
 # 广东工业大学计算机学院课程攻略
 
-> 本项目被刊登在阮一峰老师的科技爱好者周刊[第55期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-55.html)。
-
 ![gdut_bg](https://brenner8023.gitee.io/img-bed/gdut-course/gdut_bg.png)
+
+给作者加鸡腿🍖：
+
+<table>
+<tr>
+    <td>
+        <img width="300" src="https://brenner8023.gitee.io/img-bed/gdut-course/wechatpay.jpg" alt="微信赞赏码" />
+    </td>
+    <td>
+    <img src="https://brenner8023.gitee.io/img-bed/gdut-course/alipay.png" alt="支付宝收钱码" />
+    </td>
+</tr>
+</table>
 
 ## 目录
 - [使用指南](#使用指南)
@@ -70,24 +81,9 @@
 ![sparse checkout使用截图](https://brenner8023.gitee.io/img-bed/gdut-course/sparse_checkout.png)
 
 ## 支持开源
-#### 🙆扫码向他人分享本项目：
-![二维码分享](https://brenner8023.gitee.io/img-bed/gdut-course/share.png)
+- 本项目被刊登在阮一峰老师的科技爱好者周刊[第55期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-55.html)。
 
-#### 联系我
+## 联系我
 1. 使用[issue](https://github.com/brenner8023/gdut-course/issues)反馈建议，提交问题
 2. 可以通过提交PR一起维护本项目，
-3. 作者的QQ（base64加密）：`MTAxMDU0MzA1Mg==`， 👈
-4. 作者的邮箱（base64加密）：`dnVlNjY2QHFxLmNvbQ==`。
-
-#### 给作者加鸡腿🍖：
-
-<table>
-<tr>
-    <td>
-        <img width="300" src="https://brenner8023.gitee.io/img-bed/gdut-course/wechatpay.jpg" alt="微信赞赏码" />
-    </td>
-    <td>
-    <img src="https://brenner8023.gitee.io/img-bed/gdut-course/alipay.png" alt="支付宝收钱码" />
-    </td>
-</tr>
-</table>
+3. 作者的邮箱（base64加密）：`dnVlNjY2QHFxLmNvbQ==`（注明来自gdut-course）。

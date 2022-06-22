@@ -63,9 +63,9 @@
 - [华南师范大学 - 0xFFFF CS Wiki](https://www.yuque.com/0xffff.one/cs-learning)
 
 ## 了解工大更多
-- 👨‍🎓 [知乎-广东工业大学话题](https://www.zhihu.com/topic/19604314/)
+- 👨‍🎓 [知乎-广东工业大学话题](https://www.zhihu.com/topic/19604314)
 - 🍻 [哔哩哔哩-广东工业大学](https://search.bilibili.com/all?keyword=%E5%B9%BF%E4%B8%9C%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6)
-- 🤖 [百度贴吧-广东工业大学吧](http://dq.tieba.com/f?kw=%E5%B9%BF%E4%B8%9C%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6)
+- 🤖 [百度贴吧-广东工业大学吧](https://tieba.baidu.com/f?kw=%E5%B9%BF%E4%B8%9C%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6)
 - 🏠 [广东工业大学新闻网](http://gdutnews.gdut.edu.cn/)
 
 ## 相关说明

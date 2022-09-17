@@ -61,16 +61,17 @@
 - [北京林业大学信息学院课程攻略](https://github.com/bljx/BFU-leaf)
 - [山东科技大学课程资源共享计划](https://github.com/deepwzh/sdust-examination-materials)
 - [华南师范大学 - 0xFFFF CS Wiki](https://www.yuque.com/0xffff.one/cs-learning)
+- [CS自学指南-北大信科](https://github.com/pkuflyingpig/cs-self-learning/)
 
 ## 了解工大更多
-- 👨‍🎓 [知乎-广东工业大学话题](https://www.zhihu.com/topic/19604314/)
+- 👨‍🎓 [知乎-广东工业大学话题](https://www.zhihu.com/topic/19604314)
 - 🍻 [哔哩哔哩-广东工业大学](https://search.bilibili.com/all?keyword=%E5%B9%BF%E4%B8%9C%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6)
-- 🤖 [百度贴吧-广东工业大学吧](http://dq.tieba.com/f?kw=%E5%B9%BF%E4%B8%9C%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6)
+- 🤖 [百度贴吧-广东工业大学吧](https://tieba.baidu.com/f?kw=%E5%B9%BF%E4%B8%9C%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6)
 - 🏠 [广东工业大学新闻网](http://gdutnews.gdut.edu.cn/)
 
 ## 相关说明
 1. 实验课和课设是放在对应课程的文件夹中的。
-2. 目前(2019年)计算机学院共有四个专业: 软件工程, 计算机科学与技术, 网络工程, 信息安全. 不同专业会有不同的专业课, 也没有作出详细区分🙄。
+2. 目前(2022年)计算机学院共有五个专业: 软件工程, 计算机科学与技术, 网络工程, 信息安全，人工智能。不同专业会有不同的专业课，其中报考时是计算机类和人工智能，计算机类会根据大一上的绩点，在大二分流成其余的四个专业，而人工智能单独培养。在大一下进行分流专业志愿填报时，计科和软工会多出一个选择，分别是计算机科学与技术伏羲班，以及软件工程卓越班。伏羲和软卓以及人工智能是导师制。[分流情况详情](public/大一/大类专业分流.png)
 3. 学校将一些课程(比如大学物理)分为上和下两门课程, 并安排在不同的学期上课, 而我将其归类在了同一个文件夹中, 未作详细区分😅。
 4. watch、star、fork的说明：
     - star 的作用是收藏，目的是方便以后查找。

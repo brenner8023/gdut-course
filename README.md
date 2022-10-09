@@ -51,6 +51,7 @@
 - [腾讯师兄的程序员之路](./public/其它/腾讯师兄的程序员之路/README.md)
 
 相关链接：
+- [广东工业大学保研生存指南](https://github.com/metaphysicser/GDUT-Computer-Survival-Manual)
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 - [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 - [北京大学课程资料整理](https://github.com/lib-pku/libpku)

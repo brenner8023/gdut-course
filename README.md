@@ -2,19 +2,6 @@
 
 ![gdut_bg](./img/gdut-bg.png)
 
-给作者加鸡腿🍖：
-
-<table>
-<tr>
-    <td>
-        <img width="300" src="./img/wechat-pay.jpg" alt="微信赞赏码" />
-    </td>
-    <td>
-    <img src="./img/alipay.png" alt="支付宝收钱码" />
-    </td>
-</tr>
-</table>
-
 ## 目录
 - [使用指南](#使用指南)
 - [资源分类](#资源分类)
@@ -89,3 +76,4 @@
 1. 使用[issue](https://github.com/brenner8023/gdut-course/issues)反馈建议，提交问题
 2. 可以通过提交PR一起维护本项目，
 3. 作者的邮箱（base64加密）：`dnVlNjY2QHFxLmNvbQ==`（注明来自gdut-course）。
+4. 作者的微信（base64加密）：`dnVlMjMz`（注明来自gdut-course）。
